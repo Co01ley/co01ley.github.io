@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-
 <div nav-active="music">
 
 <nav class="navbar">
