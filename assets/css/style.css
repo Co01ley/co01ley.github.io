@@ -106,8 +106,17 @@ footer {
 .navbar a[data-nav="music"]    { --pos: 2; }
 .navbar a[data-nav="about"]    { --pos: 3; }
 
+/* Map active page to slider index */
+:root {
+  --nav-index: 0;
+}
+
+:root[nav-active="home"]  { --nav-index: 0; }
+:root[nav-active="games"] { --nav-index: 1; }
+:root[nav-active="music"] { --nav-index: 2; }
+:root[nav-active="about"] { --nav-index: 3; }
+
 /* Move slider based on active page */
 .nav-slider {
-  transform: translateX(calc(var(--pos) * 100%));
-  width: 80px; /* adjust to match link width */
+  transform: translateX(calc(var(--nav-index) * 100%));
 }
