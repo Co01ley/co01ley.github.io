@@ -1,6 +1,8 @@
 ---
 layout: default
+nav: about
 ---
+
 <div nav-active="about">
 
 <nav class="navbar">
