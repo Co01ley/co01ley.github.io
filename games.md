@@ -1,5 +1,7 @@
-<link rel="stylesheet" href="/assets/css/style.css">
-<link rel="stylesheet" href="/assets/css/style.css">
+---
+layout: default
+---
+
 
 <div nav-active="games">
 
