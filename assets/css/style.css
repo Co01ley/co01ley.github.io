@@ -71,10 +71,6 @@ footer {
 
 /* --- Glowing Smooth Box Highlight --- */
 
-.navbar {
-  position: relative;
-}
-
 .navbar a {
   position: relative;
   padding: 8px 14px;
@@ -83,12 +79,7 @@ footer {
 }
 
 .navbar a.active {
-  background: rgba(143, 107, 255, 0.15);
-  box-shadow: 0 0 12px rgba(143, 107, 255, 0.6);
-  color: #ffffff;
-}
-
-.navbar a.active:hover {
   background: rgba(143, 107, 255, 0.25);
-  box-shadow: 0 0 16px rgba(143, 107, 255, 0.8);
+  box-shadow: 0 0 12px rgba(143, 107, 255, 0.7);
+  color: #ffffff;
 }
