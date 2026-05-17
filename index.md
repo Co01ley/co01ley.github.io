@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <div nav-active="home">
 
 <nav class="navbar">
