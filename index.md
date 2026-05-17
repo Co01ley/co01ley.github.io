@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<style>
-  :root { nav-active: home; }
-</style>
+<body nav-active="home">
+
 
 
 <nav class="navbar">
@@ -23,3 +22,5 @@ Welcome to the official site for **Co01ley Studios**, an indie team creating Ete
 ---
 
 © 2026 Co01ley Studios. All rights reserved.
+
+</body>
