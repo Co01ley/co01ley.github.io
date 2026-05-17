@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<body nav-active="games">
+<div nav-active="games">
 
 <nav class="navbar">
   <a href="/" data-nav="home">Home</a>
@@ -47,4 +47,4 @@ Players can:
 
 This lets users publish games on Roblox without age verification.
 
-</body>
+</div>
