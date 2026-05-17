@@ -5,7 +5,7 @@
   <a href="/">Home</a>
   <a href="/games">Games</a>
   <a href="/music">Music</a>
-  <a href="/about">About</a>
+  <a href="/about" class="active">About</a>
 </nav>
 
 
