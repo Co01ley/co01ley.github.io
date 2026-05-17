@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div nav-active="games">
 
 <nav class="navbar">
