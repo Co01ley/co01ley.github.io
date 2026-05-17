@@ -3,7 +3,7 @@
 
 <nav class="navbar">
   <a href="/">Home</a>
-  <a href="/games">Games</a>
+  <a href="/games" class="active">Games</a>
   <a href="/music">Music</a>
   <a href="/about">About</a>
 </nav>
