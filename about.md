@@ -3,8 +3,6 @@
 
 <body nav-active="about">
 
-
-
 <nav class="navbar">
   <a href="/" data-nav="home">Home</a>
   <a href="/games" data-nav="games">Games</a>
@@ -32,4 +30,5 @@ The studio aims to build games that mainly involve progression, structure, and a
 - 
 ## Vision
 To develop creative and fun experiences across games and audio, with a main focus on fitting atmospheres, a stable structure, and identity.
+
 </body>
