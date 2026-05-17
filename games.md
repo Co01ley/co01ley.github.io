@@ -1,6 +1,11 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 
+<style>
+  :root { --nav-active: games; }
+</style>
+
+
 <nav class="navbar">
   <a href="/" data-nav="home">Home</a>
   <a href="/games" data-nav="games">Games</a>
