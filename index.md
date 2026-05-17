@@ -1,6 +1,6 @@
 ---
 layout: default
-nav: about
+nav: home
 ---
 <div nav-active="home">
 
