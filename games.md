@@ -1,6 +1,6 @@
 ---
 layout: default
-nav: about
+nav: games
 ---
 
 <div nav-active="games">
