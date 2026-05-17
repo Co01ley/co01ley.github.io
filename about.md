@@ -5,6 +5,7 @@
   :root { nav-active: about; }
 </style>
 
+
 <nav class="navbar">
   <a href="/" data-nav="home">Home</a>
   <a href="/games" data-nav="games">Games</a>
