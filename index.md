@@ -1,4 +1,12 @@
 <link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<nav class="navbar">
+  <a href="/">Home</a>
+  <a href="/games">Games</a>
+  <a href="/music">Music</a>
+  <a href="/about">About</a>
+</nav>
 
 # Co01ley Studios
 
