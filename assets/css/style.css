@@ -99,3 +99,15 @@ footer {
   transition: 0.35s ease;
   z-index: 1;
 }
+
+/* Position rules for the slider */
+.navbar a[data-nav="home"]     { --pos: 0; }
+.navbar a[data-nav="games"]    { --pos: 1; }
+.navbar a[data-nav="music"]    { --pos: 2; }
+.navbar a[data-nav="about"]    { --pos: 3; }
+
+/* Move slider based on active page */
+.nav-slider {
+  transform: translateX(calc(var(--pos) * 100%));
+  width: 80px; /* adjust to match link width */
+}
