@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <style>
-  :root { --nav-active: home; }
+  :root { nav-active: home; }
 </style>
 
 <nav class="navbar">
