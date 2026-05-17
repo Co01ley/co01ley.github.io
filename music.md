@@ -4,7 +4,7 @@
 <nav class="navbar">
   <a href="/">Home</a>
   <a href="/games">Games</a>
-  <a href="/music">Music</a>
+  <a href="/music" class="active">Music</a>
   <a href="/about">About</a>
 </nav>
 
