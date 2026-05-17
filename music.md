@@ -1,4 +1,13 @@
 <link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.css">
+
+<nav class="navbar">
+  <a href="/">Home</a>
+  <a href="/games">Games</a>
+  <a href="/music">Music</a>
+  <a href="/about">About</a>
+</nav>
+
 
 ## 🎧 Music & Licensing
 All music released under **Co01ley** is original work created for studio projects.  
