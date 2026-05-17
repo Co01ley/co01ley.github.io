@@ -3,17 +3,6 @@ layout: default
 nav: about
 ---
 
-<div nav-active="about">
-
-<nav class="navbar">
-  <a href="/" data-nav="home">Home</a>
-  <a href="/games" data-nav="games">Games</a>
-  <a href="/music" data-nav="music">Music</a>
-  <a href="/about" data-nav="about">About</a>
-  <span class="nav-slider"></span>
-</nav>
-
-
 # About
 
 Co01ley Studios focuses on creating Roblox games and atmospheric audio.  
