@@ -69,17 +69,33 @@ footer {
   text-shadow: 0 0 8px #8f6bff;
 }
 
-/* --- Glowing Smooth Box Highlight --- */
+/* --- Sliding Navbar Box --- */
+
+.navbar {
+  position: relative;
+  display: flex;
+  gap: 20px;
+  padding: 12px 20px;
+}
 
 .navbar a {
   position: relative;
   padding: 8px 14px;
   border-radius: 6px;
-  transition: 0.25s ease;
+  z-index: 2;
+  transition: color 0.25s ease;
 }
 
-.navbar a.active {
+/* The sliding box */
+.nav-slider {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 0;
+  height: 32px;
   background: rgba(143, 107, 255, 0.25);
   box-shadow: 0 0 12px rgba(143, 107, 255, 0.7);
-  color: #ffffff;
+  border-radius: 6px;
+  transition: 0.35s ease;
+  z-index: 1;
 }
