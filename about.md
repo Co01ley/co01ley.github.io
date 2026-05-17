@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<style>
-  :root { nav-active: about; }
-</style>
+<html nav-active="about">
+
 
 
 <nav class="navbar">
