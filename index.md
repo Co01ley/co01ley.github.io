@@ -3,8 +3,6 @@
 
 <body nav-active="home">
 
-
-
 <nav class="navbar">
   <a href="/" data-nav="home">Home</a>
   <a href="/games" data-nav="games">Games</a>
