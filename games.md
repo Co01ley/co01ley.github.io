@@ -48,3 +48,5 @@ Players can:
 - Enter each place through portals in the hub  
 
 This lets users publish games on Roblox without age verification.
+
+</body>
