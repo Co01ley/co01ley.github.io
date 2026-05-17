@@ -35,6 +35,4 @@ Players can:
 - Explore a growing library of community‑made games  
 - Enter each place through portals in the hub  
 
-This lets users publish games on Roblox without age verification.
-
-</div>
+This lets users publish games on Roblox without age verification
