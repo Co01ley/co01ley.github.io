@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<body nav-active="home">
+<div nav-active="home">
 
 <nav class="navbar">
   <a href="/" data-nav="home">Home</a>
@@ -21,4 +21,4 @@ Welcome to the official site for **Co01ley Studios**, an indie team creating Ete
 
 © 2026 Co01ley Studios. All rights reserved.
 
-</body>
+</div>
