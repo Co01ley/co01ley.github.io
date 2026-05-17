@@ -2,11 +2,13 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <nav class="navbar">
-  <a href="/" class="active">Home</a>
-  <a href="/games">Games</a>
-  <a href="/music">Music</a>
-  <a href="/about">About</a>
+  <a href="/" data-nav="home">Home</a>
+  <a href="/games" data-nav="games">Games</a>
+  <a href="/music" data-nav="music">Music</a>
+  <a href="/about" data-nav="about">About</a>
+  <span class="nav-slider"></span>
 </nav>
+
 
 
 # Co01ley Studios
