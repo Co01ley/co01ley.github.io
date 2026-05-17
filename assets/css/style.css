@@ -1,0 +1,45 @@
+/* --- Co01ley Studios Custom Theme --- */
+
+/* Page background + text */
+body {
+  background: #0f0f0f;
+  color: #e6e6e6;
+  font-family: "Segoe UI", Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #8f6bff;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* Links */
+a {
+  color: #9f82ff;
+  text-decoration: none;
+}
+a:hover {
+  color: #cbb6ff;
+  text-decoration: underline;
+}
+
+/* Section boxes */
+section {
+  background: #1a1a1a;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  border: 1px solid #2a2a2a;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  color: #777;
+  font-size: 14px;
+}
