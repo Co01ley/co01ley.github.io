@@ -3,16 +3,6 @@ layout: default
 nav: games
 ---
 
-<div nav-active="games">
-
-<nav class="navbar">
-  <a href="/" data-nav="home">Home</a>
-  <a href="/games" data-nav="games">Games</a>
-  <a href="/music" data-nav="music">Music</a>
-  <a href="/about" data-nav="about">About</a>
-  <span class="nav-slider"></span>
-</nav>
-
 ## 🎮 Our Games
 
 ### CMToH — Co01ley's Mini Towers of Hell
