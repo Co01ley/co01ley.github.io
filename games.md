@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <div nav-active="games">
 
 <nav class="navbar">
@@ -12,8 +11,6 @@ layout: default
   <a href="/about" data-nav="about">About</a>
   <span class="nav-slider"></span>
 </nav>
-
-
 
 ## 🎮 Our Games
 
