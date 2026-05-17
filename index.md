@@ -2,17 +2,6 @@
 layout: default
 nav: home
 ---
-<div nav-active="home">
-
-<nav class="navbar">
-  <a href="/" data-nav="home">Home</a>
-  <a href="/games" data-nav="games">Games</a>
-  <a href="/music" data-nav="music">Music</a>
-  <a href="/about" data-nav="about">About</a>
-  <span class="nav-slider"></span>
-</nav>
-
-
 
 # Co01ley Studios
 
