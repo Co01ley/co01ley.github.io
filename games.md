@@ -1,9 +1,8 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<style>
-  :root { nav-active: games; }
-</style>
+<body nav-active="games">
+
 
 
 <nav class="navbar">
