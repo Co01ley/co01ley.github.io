@@ -1,5 +1,6 @@
 ---
 layout: default
+nav: music
 ---
 <div nav-active="music">
 
