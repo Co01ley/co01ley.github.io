@@ -1,94 +1,65 @@
 # Co01ley Studios
 
-Welcome to the official home of **Co01ley Studios** — an independent creative studio led by  
+Welcome to the official home of **Co01ley Studios** — an indie creative studio led by  
 **Co01ley — Creative Arts Head, Head Director & Founder**.
 
-We specialise in atmospheric worldbuilding, conceptual game design, experimental difficulty systems,  
-and original soundtrack production.
+We primarily create Eternal Towers of Hell–inspired games, with a few exceptions.  
+Eternal Towers of Hell (EToH) is a Roblox obby game focused on ascending “towers” and unlocking even more
+areas as you progress.
+
+You can play the original game here:  
+
+https://www.roblox.com/games/8562822414/Eternal-Towers-of-Hell
 
 ---
 
-## 🎨 About the Studio
+## 🏛️ Studio Projects
 
-Co01ley Studios focuses on creating immersive, lore‑rich experiences with a strong emphasis on:
+### 🎮 CMToH — Co01ley's Mini Towers of Hell
+CMToH is an EToH-inspired fangame with its own story and lore, featuring:
 
-- **[Creative Arts Direction](ca://s?q=Explain_Creative_Arts_Head_role)**  
-- **[Worldbuilding & Lore Design](ca://s?q=Explain_worldbuilding_process)**  
-- **[Soundtrack Composition](ca://s?q=Explain_soundtrack_design)**  
-- **[Difficulty System Engineering](ca://s?q=Explain_difficulty_systems)**  
-- **[Atmospheric Visual Identity](ca://s?q=Explain_visual_identity_design)**  
-
-Our projects blend conceptual storytelling with experimental mechanics to create unique,  
-memorable experiences.
+- 1 current world.
+- 3 more planned worlds.
+- A determined developer team.
 
 ---
 
-## 🏛️ Current Projects
+### 🎮 EToH 2.5xs
+EToH 2.5xs is another EToH fangame, this time more closely related to classic EToH.
 
-### **CMToH — Co01ley's Mini Towers of Hell**
-A conceptual fangame inspired by classic ToH design, featuring:
+Instead of towers, steeples, citadels, and obelisks, EToH 2.5xs compresses the structure into:
 
-- Custom difficulty tiers  
-- Realm‑based progression  
-- Unique atmospheric identity  
-- Experimental tower structures  
+- **Floors** (tower replacements)  
+- **Rooms** (steeple replacements)  
+- **Edifices** (citadel replacements)  
+- **Steeples** (compressed obelisks)  
 
-Learn more: **[CMToH Overview](ca://s?q=Explain_CMToH)**
-
----
-
-### **EToH 2.5xs — Experimental Stage Series**
-A multi‑stage conceptual album/game hybrid exploring memory, decay, and ambience.
-
-Includes:
-
-- Stage 2.5 structure  
-- D6, D7, and E0 track development  
-- Original OST created in BandLab Mobile  
-
-Learn more: **[EToH 2.5xs](ca://s?q=Explain_EToH_2_5xs)**
+The result is a much smaller, faster-paced version of the original game, allowing players to progress across
+areas much quicker.
 
 ---
 
-### **Archive Game**
-A minimal, atmospheric side‑project focused on:
+### 🎮 Archive Game (Temporary Name)
+Archive Game is a community‑driven project where players can submit their own `.rbxl` files, which are then
+curated and uploaded as individual places inside the game.
 
-- Environmental storytelling  
-- Subtle ambience  
-- Slow‑burn progression  
+The game acts as a playable archive, allowing people to:
 
-Learn more: **[Archive Game](ca://s?q=Explain_Archive_Game)**
+- Submit RBXL creations externally  
+- Have them curated and published as places if accepted  
+- Explore a growing library of community‑made games  
+- Enter each uploaded place through portals in the main hub  
 
----
-
-## 🎧 Music & Sound
-
-All soundtrack work is produced under the artist name **Co01ley**, using:
-
-- BandLab Mobile  
-- Custom FX chains  
-- Dryer reverb + strong echo (signature style)  
-
-Explore: **[Co01ley OST Info](ca://s?q=Explain_Co01ley_OST)**
+This project allows users to have their games public on Roblox without needing to verify their age.
 
 ---
 
-## 🧩 Tools & Skills
+## 🎧 Music & Licensing
 
-- **BandLab Mobile Editing**  
-- **Conceptual Music Structuring**  
-- **World & Lore Design**  
-- **Atmospheric Visual Direction**  
-- **Mathematical Systems & Difficulty Logic**  
+All music released under the name **Co01ley** is original work created for studio projects.  
+Unless otherwise stated, all tracks are licensed under the terms outlined in the official licence document:  
 
-Learn more: **[Studio Skills](ca://s?q=Explain_studio_skills)**
-
----
-
-## 📬 Contact
-
-For inquiries, collaborations, or project info:  
-**[Contact Co01ley](ca://s?q=Contact_Co01ley)**
+https://drive.google.com/file/d/1o0rDSly6SVS669pKu84IOiBywM8Pw5do/view?usp=sharing
 
 ---
 
