@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <nav class="navbar">
-  <a href="/">Home</a>
+  <a href="/" class="active">Home</a>
   <a href="/games">Games</a>
   <a href="/music">Music</a>
   <a href="/about">About</a>
