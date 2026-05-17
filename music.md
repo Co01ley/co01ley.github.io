@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<body nav-active="music">
+<div nav-active="music">
 
 <nav class="navbar">
   <a href="/" data-nav="home">Home</a>
@@ -18,4 +18,4 @@ All music released under **Co01ley** is original work created for studio project
 Unless otherwise stated, tracks follow the licence here:  
 https://drive.google.com/file/d/1o0rDSly6SVS669pKu84IOiBywM8Pw5do/view?usp=sharing
 
-</body>
+</div>
