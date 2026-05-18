@@ -1,3 +1,5 @@
+[Home](index.md) • [Music](music.md) • [Games](games.md) • [About](about.md)
+
 # 🎮 Our Games
 
 ## CMToH — Co01ley's Mini Towers of Hell
