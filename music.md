@@ -1,9 +1,10 @@
-<div style="display:flex; gap:10px; flex-wrap:wrap;">
+<div class="nav-bar">
   <a href="index.md" class="nav-btn">Home</a>
   <a href="music.md" class="nav-btn">Music</a>
   <a href="games.md" class="nav-btn">Games</a>
   <a href="about.md" class="nav-btn">About</a>
 </div>
+
 
 
 # 🎧 Music & Licensing
