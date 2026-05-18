@@ -5,8 +5,6 @@
   <a href="about.md" class="nav-btn">About</a>
 </div>
 
-
-
 # 🎮 Our Games
 
 ## CMToH — Co01ley's Mini Towers of Hell
@@ -39,7 +37,4 @@ Players can:
 - Explore a growing library of community‑made games  
 - Enter each place through portals in the hub  
 
-This lets users publish games on Roblox without age verification
-
-<!-- fixys -->
-
+This lets users publish games on Roblox without age verification.
