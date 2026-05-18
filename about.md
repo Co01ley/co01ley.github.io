@@ -1,3 +1,5 @@
+[Home](index.md) • [Music](music.md) • [Games](games.md) • [About](about.md)
+
 # About
 
 Co01ley Studios focuses on creating Roblox games and atmospheric audio.  
