@@ -1,8 +1,3 @@
----
-layout: default
-nav: about
----
-
 # About
 
 Co01ley Studios focuses on creating Roblox games and atmospheric audio.  
