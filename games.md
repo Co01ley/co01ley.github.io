@@ -5,7 +5,7 @@
   <a href="/about" class="nav-btn">About</a>
 </div>
 
-<!--test-->
+<!--test2-->
 
 # 🎮 Our Games
 
