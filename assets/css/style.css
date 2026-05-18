@@ -44,79 +44,18 @@ footer {
   font-size: 14px;
 }
 
-/* --- Navigation Bar --- */
-
-.navbar {
-  background: #1a1a1a;
-  padding: 12px 20px;
-  display: flex;
-  gap: 25px;
-  border-bottom: 2px solid #8f6bff;
-  position: sticky;
-  top: 0;
-  z-index: 1000;
-}
-
-.navbar a {
-  color: #cbb6ff;
-  font-weight: 600;
-  text-decoration: none;
-  font-size: 16px;
-}
-
-.navbar a:hover {
-  color: #ffffff;
-  text-shadow: 0 0 8px #8f6bff;
-}
-
-/* --- Sliding Navbar Box --- */
-
-.navbar {
-  position: relative;
-  display: flex;
-  gap: 20px;
-  padding: 12px 20px;
-}
-
-.navbar a {
-  position: relative;
+.nav-btn {
   padding: 8px 14px;
+  background: #222;
+  color: white;
   border-radius: 6px;
-  z-index: 2;
-  transition: color 0.25s ease;
+  text-decoration: none;
+  margin-right: 8px;
+  display: inline-block;
+  transition: background 0.15s ease, transform 0.1s ease;
 }
 
-/* The sliding box */
-.nav-slider {
-  position: absolute;
-  top: 6px;
-  left: 0;
-  width: 0;
-  height: 32px;
-  background: rgba(143, 107, 255, 0.25);
-  box-shadow: 0 0 12px rgba(143, 107, 255, 0.7);
-  border-radius: 6px;
-  transition: 0.35s ease;
-  z-index: 1;
-}
-
-/* Position rules for the slider */
-.navbar a[data-nav="home"]     { --pos: 0; }
-.navbar a[data-nav="games"]    { --pos: 1; }
-.navbar a[data-nav="music"]    { --pos: 2; }
-.navbar a[data-nav="about"]    { --pos: 3; }
-
-/* Map active page to slider index */
-:root {
-  --nav-index: 0;
-}
-
-:root[nav-active="home"]  { --nav-index: 0; }
-:root[nav-active="games"] { --nav-index: 1; }
-:root[nav-active="music"] { --nav-index: 2; }
-:root[nav-active="about"] { --nav-index: 3; }
-
-/* Move slider based on active page */
-.nav-slider {
-  transform: translateX(calc(var(--nav-index) * 100%));
+.nav-btn:hover {
+  background: #444;
+  transform: translateY(-2px);
 }
