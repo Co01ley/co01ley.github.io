@@ -1,11 +1,6 @@
----
-layout: default
-nav: games
----
+# 🎮 Our Games
 
-## 🎮 Our Games
-
-### CMToH — Co01ley's Mini Towers of Hell
+## CMToH — Co01ley's Mini Towers of Hell
 A story‑driven EToH fangame featuring:
 - 1 current world  
 - 3 additional worlds planned  
@@ -13,7 +8,7 @@ A story‑driven EToH fangame featuring:
 
 ---
 
-### EToH 2.5xs
+## EToH 2.5xs
 A compact reinterpretation of classic EToH.  
 Towers, steeples, citadels, and obelisks are reimagined as:
 
@@ -26,7 +21,7 @@ This creates a faster, smaller, progression‑focused experience.
 
 ---
 
-### Archive Game (Temporary Name)
+## Archive Game (Temporary Name)
 A community‑powered project where players can submit `.rbxl` files to be curated and published as individual places.
 
 Players can:
