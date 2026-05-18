@@ -16,3 +16,5 @@ The studio aims to build games that mainly involve progression, structure, and a
 
 ## Vision
 To develop creative and fun experiences across games and audio, with a main focus on fitting atmospheres, a stable structure, and identity.
+
+<!-- worky-->
