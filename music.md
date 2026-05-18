@@ -1,3 +1,5 @@
+[Home](index.md) • [Music](music.md) • [Games](games.md) • [About](about.md)
+
 # 🎧 Music & Licensing
 All music released under **Co01ley** is original work created for studio projects.  
 Unless otherwise stated, tracks follow the licence here:  
