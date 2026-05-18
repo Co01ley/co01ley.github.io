@@ -8,4 +8,4 @@ Welcome to the official site for **Co01ley Studios**, an indie team creating Ete
 
 © 2026 Co01ley Studios. All rights reserved.
 
-<!-- work bruh -->
+<!-- work bruh pls speed -->
